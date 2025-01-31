@@ -1,2 +1,2 @@
 # usb-tree
-Simón Bolívar University - CI3825 - Operating Systems I - Tree
+Universidad Simón Bolívar - CI3825 - Operating Systems I - Tree
